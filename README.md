@@ -19,7 +19,7 @@ The app allows users to browse courses, view details, and make payments.
 ## ▶️ How to Run
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/course_selling_app.git
+   git clone https://github.com/amitchauhan4/coursein.git
 
 ## Go inside the folder:
 cd course_selling_app
